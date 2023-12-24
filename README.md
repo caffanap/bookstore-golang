@@ -10,6 +10,7 @@ Buat database dengan nama **bookstore**
 
 ## MAKEFILE
 
+ - INSTALL : **make install**
  - BUILD : **make build**
  - RUN : **make run**
  - DEV : **make dev**
